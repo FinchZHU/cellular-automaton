@@ -1,5 +1,8 @@
 # cellular-automaton
 Several cellular automaton games implemented by python.
+Env:
+Python 3.7 64-bit
+
 
 ### todo list
 
