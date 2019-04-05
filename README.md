@@ -5,7 +5,11 @@ Several cellular automaton games implemented by python.
 
   langton's ant: check
   
-  life game: 
+  life game: check
+  
+  code re-construction
+  
+  objectification
   
   ...
   
